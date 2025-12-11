@@ -53,5 +53,5 @@ This repository provides an on-chain raffle and auction smart contract built on 
 
 # Contract
 
-- Twitter  [DeFiMaxi](https://x.com/defai_maxi)
-- Telegram [Rhett](https://t.me/rhettjel)
+- Twitter  [roswellyecho](https://x.com/roswellyecho)
+- Telegram [roswellecho](https://t.me/roswellecho)
